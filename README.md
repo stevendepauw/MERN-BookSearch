@@ -50,9 +50,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Mock-Up
 
-Let's start by revisiting the web application's appearance and functionality.
-
-As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
+A user can type a search term (in this case, "star wars") in a search box and the results appear:
 
 ![Animation shows "star wars" typed into a search box and books about Star Wars appearing as results.](./Assets/21-mern-homework-demo-01.gif)
 
